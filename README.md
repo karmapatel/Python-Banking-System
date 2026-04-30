@@ -24,9 +24,3 @@ The system allows users to perform basic banking operations such as creating acc
 - Pickle module (for serialization)
 - Random module (for generating account numbers)
 - Object-Oriented Programming (OOP)
-
-🚀 Future Enhancements
-- Add GUI support using Tkinter.
-- Implement password protection for accounts.
-- Add transaction history logs.
-- Improve error handling with specific exceptions.
